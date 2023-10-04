@@ -1,4 +1,5 @@
-# Clustering-
+# Clustering
+
 
 In this repo  we have implemented three different clustering techniques using
 different values of the images.Based on the results , we observed that, for our
